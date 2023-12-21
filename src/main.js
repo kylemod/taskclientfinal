@@ -16,7 +16,7 @@ import './assets/sweetalert2.min.css';
 //import VueCountdown from '@chenfengyuan/vue-countdown';
 
 import axios from 'axios'
-axios.defaults.baseURL = 'https://apitask.cyclic.app/'
+axios.defaults.baseURL = 'https://puce-crabby-sea-lion.cyclic.app/'
 
 const ls = new SecureLS({
   encodingType: 'aes',
